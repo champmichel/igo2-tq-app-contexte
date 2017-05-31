@@ -17,7 +17,7 @@
       }
     },
     {
-      "title": "Débits de circulation - Transports Québec",
+      "title": "Michel - Débits de circulation - Transports Québec",
       "type": "wms",
       "source": {
         "url": "/ws/igo_gouvouvert.fcgi",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "title": "Villages-relais par Transports Québec",
+      "title": "Michel - Villages-relais par Transports Québec",
       "type": "wms",
       "source": {
         "url": "/ws/igo_gouvouvert.fcgi",
